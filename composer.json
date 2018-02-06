@@ -1,0 +1,17 @@
+{
+  "name": "axehandle_unlimited/tripcodes",
+  "version": "0.0.1",
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "autoload": {
+    "psr-4": {
+      "AxehandleUnlimited\\Tripcodes\\": "src/AxehandleUnlimited/Tripcodes/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "AxehandleUnlimited\\Tripcodes\\Tests\\": "tests/AxehandleUnlimited/Tripcodes/Tests/"
+    }
+  }
+}
